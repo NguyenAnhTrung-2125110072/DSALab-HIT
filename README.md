@@ -130,21 +130,18 @@ Huong dan nop bai DSALab
 
 3. Lam bai dung thu muc duoc yeu cau
 
-4. Commit day du va dat noi dung commit ro rang
+4. Sau khi hoan thanh, commit va push len GitHub ca nhan
 
-5. Push len repo GitHub ca nhan
-
-6. Nop bai bang mot trong hai cach:
+5. Nop bai bang mot trong hai cach:
    - Tao Pull Request ve repo goc
    - Hoac gui link repo fork len he thong hoc tap
 
 Neu nop bang Pull Request, dat tieu de theo mau:
 [MSSV] - [Ho ten] - Bai tap tuan X
 ----
-Ví dụ:
-git clone https://github.com/nguyenvana/DSALab.git
-cd DSALab
-git add .
-git commit -m "Hoan thanh bai tap tuan 1"
-git push origin main
+1. git clone https://github.com/nguyenvana/DSALab.git
+2. cd DSALab
+3. git add .
+4. git commit -m "Hoan thanh bai tap tuan 1"
+5. git push origin main
 ---
